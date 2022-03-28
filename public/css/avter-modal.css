@@ -1,0 +1,87 @@
+.avter-modal .modal-content {
+    border-radius: 20px;
+  }
+  
+  .avter-modal .modal-content a {
+    text-decoration: underline;
+  }
+  
+  .avter-modal .modal-content .avter-priority {
+    /* background-color: #ffc60f; */
+    font-weight: bold;
+    border-radius: 20px;
+    /* padding: 1px 1em; */
+    height: 100%;
+  }
+  
+  .avter-modal .modal-content .modal-body {
+    padding: 1rem 2rem;
+  }
+  
+  .avter-modal .modal-content .modal-header {
+    padding-bottom: 0;
+    border-bottom: 0;
+  }
+  
+  .avter-modal .modal-content .no-margin-top {
+    margin-top: 0;
+  }
+  
+  .avter-modal .modal-content .avter-title {
+    color: #162c4e;
+    text-align: center;
+  }
+  
+  .avter-modal .modal-content .avter-title h1 {
+    font-weight: bold;
+  }
+  
+  .avter-modal .modal-content .avter-bold-blue {
+    color: #162c4e;
+    font-weight: bold;
+  }
+  
+  .avter-modal .modal-content .avter-container {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+  }
+  
+  .avter-modal .modal-content .avter-container hr {
+    color: gray;
+    width: 100%;
+  }
+  
+  .avter-modal .modal-content .avter-sub-container {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .avter-modal .modal-content .avter-sub-container span:not(:last-child) {
+    margin-bottom: 5px;
+  }
+  
+  .avter-modal .modal-content .avter-sub-container .gray-text {
+    margin-bottom: 0;
+  }
+  
+  .avter-modal .modal-content .gray-text {
+    color: gray;
+    margin-bottom: 3px;
+  }
+  
+  .avter-modal .modal-content .avter-btn-container {
+    text-align: center;
+    padding-bottom: 1em;
+  }
+  
+  .avter-modal .modal-content .avter-btn-container .avter-btn {
+    padding: 7px 25px;
+    background-color: #ffc60f;
+    border-radius: 5px;
+    font-weight: bold;
+    margin-top: 10px;
+    box-shadow: 0 0.4rem 0.6rem 0 rgba(129, 129, 130, 0.23);
+  }
+  
+  

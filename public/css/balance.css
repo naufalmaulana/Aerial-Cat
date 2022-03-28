@@ -1,0 +1,23 @@
+.page-container{
+    width: 80%;
+    margin: auto;
+}
+
+.btn-container{
+    margin: auto;
+    /* width: 80%; */
+
+}
+
+.btn-bl{
+    padding: 25px;
+    background-color:  #3490dc;
+    border-radius: 10px;
+    box-shadow: 0 0.4rem 0.6rem 0 rgba(129, 129, 130, 0.23);
+    color: white;
+    font-weight: bold;
+    /* display: block; */
+    width: 200px;
+    font-size: large;
+    
+}
